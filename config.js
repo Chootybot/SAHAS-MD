@@ -54,7 +54,7 @@ module.exports = {
 
 *🔹 OWNER:* 94718913389
 
-_Thank you for using_ *👨‍💻SAHAS-MD💗.*
+_Thank you for using_ *👨‍💻Admin CHOOTY💗.*
 _We're here to make your experience enjoyable and seamless._
 _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
@@ -68,7 +68,7 @@ _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
 _*👨‍💻 Enjoy your time with us! 😊*_
 
-> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱᴀʜᴀꜱ ᴛᴇᴄʜ*` ,
+> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ADMIN CHOOTY*` ,
 
   ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/de82e3.jpg",
   MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/de82e3.jpg",
