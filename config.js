@@ -48,11 +48,11 @@ module.exports = {
 //------------------------------------------------------------------------------------------------------------------
 
   
-  START_MSG: process.env.START_MSG || `🚀 *_SAHAS-MD Connected Successfully!_* ✅ 
+  START_MSG: process.env.START_MSG || `🚀 *_Admin-CHOOTY Connected Successfully!_* ✅ 
 
---- *👨‍💻🎉 _Welcome to SAHAS-MD!_* 🎉💗 
+--- *👨‍💻🎉 _Welcome to Admin-CHOOTY!_* 🎉💗 
 
-*🔹 OWNER:* 94718913389
+*🔹 OWNER:* 94757624137
 
 _Thank you for using_ *👨‍💻Admin CHOOTY💗.*
 _We're here to make your experience enjoyable and seamless._
@@ -60,7 +60,7 @@ _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
 *🖇️Join My WhatsApp Channel✓💗 - :* https://whatsapp.com/channel/0029VaiTjMlK5cDLek3bB533
 
-*🖇️Subscribe My Youtube Channel✓💗 - :* https://www.youtube.com/@Sahas_Tech
+*🖇️Follow On My TikTok Page✓💗 - :* www.tiktok.com/@chooty__status
 
 *🖇️Fork & Star My Repo✓💗 - :* https://github.com/SahasTech22/SAHAS-MD
 
